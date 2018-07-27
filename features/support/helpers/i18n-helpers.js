@@ -1,4 +1,4 @@
-const DEFAULT_LANGUAGE = 'en-US';
+const DEFAULT_LANGUAGE = 'zh-CN';
 
 export default {
   formatMessage: async (client, { id, values }) => {
